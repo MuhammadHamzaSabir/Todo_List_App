@@ -7,3 +7,4 @@ How to run it
 replace the public and src folders with those in this repo.
   
   npm start
+![Todolist](https://github.com/MuhammadHamzaSabir/Todo_List_App/assets/146830981/09ac5288-6a0a-41d5-8e98-9944c7f7f0e5)
